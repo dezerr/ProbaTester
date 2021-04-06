@@ -10,8 +10,8 @@ Launch with "python runner.py"<br>
 Done that way :
 `python runner.py`<br>
 
-## How the demo works
-Launch with "node demo.js"
+## How the tester works
+Launch with "node tester.js"
 `node demo.js`<br>
 
 ## Contact
