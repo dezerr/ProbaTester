@@ -4,7 +4,7 @@ from datetime import datetime
 
 hour1 = datetime.now()
 
-for i in range(0, 100):
+for i in range(0, 5):
     os.system("node tester.js")
 
 hour2 = datetime.now()
