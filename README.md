@@ -10,7 +10,7 @@ Launch with "python runner.py"<br>
 Done that way :
 `python runner.py`<br>
 
-### How the demo works
+## How the demo works
 Launch with "node demo.js"
 `node demo.js`<br>
 
