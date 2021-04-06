@@ -5,7 +5,7 @@
 
 let fs = require('fs');
 
-const max = 500000;
+const max = 50;
 const answer = 5;
 const result = [];
 let random = null;
