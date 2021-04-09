@@ -14,5 +14,9 @@ Done that way :
 Launch with "node tester.js"
 `node demo.js`<br>
 
+## Use the GUI
+Install with : `pip install -r requirements.txt`<br>
+Run with : `python gui.py`
+
 ## Contact
 My [Twitter](https://twitter.com/dezerr_)
